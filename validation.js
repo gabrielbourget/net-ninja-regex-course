@@ -1,4 +1,4 @@
-// regex patterns
+// -> Regex patterns
 const patterns = {
-        telephone: /^\d{11}$/
+  telephone: /^\d{11}$/
 };
